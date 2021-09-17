@@ -8,3 +8,4 @@ Dataset : https://www.kaggle.com/imoore/60k-stack-overflow-questions-with-qualit
 | Model Used                            |                          Loss |
 |---------------------------------------|------------------------------:|
 | TFIDF + Logistic Regression           | LogLoss = 0.683 Loss = 0.3045 |
+| TFIDF + Naive Bayes           | LogLoss = 0.734 |
