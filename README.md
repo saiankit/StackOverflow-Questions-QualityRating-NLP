@@ -5,3 +5,6 @@ The best place to find solutions to issues people face during the software devel
 
 Dataset : https://www.kaggle.com/imoore/60k-stack-overflow-questions-with-quality-rate
 
+| Model Used                            |                          Loss |
+|---------------------------------------|------------------------------:|
+| TFIDF + Logistic Regression           | LogLoss = 0.683 Loss = 0.3045 |
